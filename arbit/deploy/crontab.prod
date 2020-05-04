@@ -1,0 +1,2 @@
+# m h  dom mon dow   command
+5 9 * * * /cryptomac/update-exchange-products.sh >> /cryptomac/update-exchange-products.log 2>&1

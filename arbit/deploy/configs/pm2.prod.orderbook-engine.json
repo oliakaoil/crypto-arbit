@@ -1,0 +1,6 @@
+{
+  "script": "./index.js",
+  "name": "cm-orderbook-engine",
+  "args": "--mode=localize"
+}
+

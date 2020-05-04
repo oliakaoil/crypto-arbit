@@ -1,0 +1,11 @@
+{
+  "name": "cryptomac-deploy-tool",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "compare-versions": "^3.5.0",
+    "dotenv": "^8.0.0",
+    "flightplan": "^0.6.20"
+  }
+}

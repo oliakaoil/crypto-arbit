@@ -1,0 +1,6 @@
+{
+  "script": "./index.js",
+  "name": "cmts-all",
+  "args": "--mode=tarbit-scan"
+}
+

@@ -1,0 +1,6 @@
+node_modules
+.env
+dist
+dist.tar
+dist-prod.tar
+configs/.env.prod
