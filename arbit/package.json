@@ -36,7 +36,7 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "robinhood": "^1.6.5",
-    "sequelize": "^4.37.6",
+    "sequelize": "^5.15.1",
     "signalr-client": "0.0.19",
     "superagent": "^5.1.0",
     "underscore": "^1.9.0",
