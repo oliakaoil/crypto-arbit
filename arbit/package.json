@@ -29,7 +29,7 @@
     "md5": "^2.2.1",
     "memcached": "^2.2.2",
     "memcached-promisify": "git@github.com:oliakaoil/memcached-promisify.git",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql2": "^1.5.3",
     "nodeAltillyApi": "git+https://github.com/altilly/nodealtillyapi.git",
     "prompts": "^2.2.1",
