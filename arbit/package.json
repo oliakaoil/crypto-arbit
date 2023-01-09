@@ -25,7 +25,7 @@
     "command-line-args": "^5.1.1",
     "convert-hrtime": "^3.0.0",
     "dotenv": "^5.0.1",
-    "luxon": "^1.2.0",
+    "luxon": "^2.5.2",
     "md5": "^2.2.1",
     "memcached": "^2.2.2",
     "memcached-promisify": "git@github.com:oliakaoil/memcached-promisify.git",
